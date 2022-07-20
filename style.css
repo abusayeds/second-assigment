@@ -14,6 +14,39 @@
 .centar{
     margin-left: 200px;
 }
-input{
-    background-color: red;
+.input{
+
+    background-color: brown;
+    width: 9%;
+    display: flex;
+
 }
+.section-title{
+    border: 1px solid wheat;
+    width: 9%;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+h4{
+    border: red;
+}
+.change{
+    border: 1px solid rgb(134, 133, 130);
+    width: 14%;
+}
+/*-----------
+ top blog styles 
+ --------------*/
+ .blogs{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+ }
+ .blog .thumbnaill img{
+    width: 177px;
+    height: 117px;
+ }
+ .anathar-blog{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);              
+ }
+
