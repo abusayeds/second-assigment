@@ -1,0 +1,19 @@
+ .bannar{
+    width: 600px;
+    height: 500px;
+    background-color: black; 
+      margin-left: 340px;
+     /* border: 10px solid red */
+    
+} 
+.page{
+    
+    color: white;
+    padding-left: 15px;
+}
+.centar{
+    margin-left: 200px;
+}
+input{
+    background-color: red;
+}
